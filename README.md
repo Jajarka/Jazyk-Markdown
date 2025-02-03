@@ -1,3 +1,5 @@
+zaklady jazyka Markdown najdes tu
+https://www.markdownguide.org/basic-syntax/
 # Jazyk-Markdown
 Repo pre tréning jayzka Markkdown
 
